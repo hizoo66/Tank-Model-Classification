@@ -1,0 +1,8 @@
+,tank,car,threewheel,bus,truck,motorbike,van
+tank,183,0,0,1,0,1,0
+car,0,195,1,2,0,1,2
+threewheel,0,0,215,1,0,0,0
+bus,0,0,0,801,0,0,0
+truck,0,0,1,0,224,1,1
+motorbike,0,1,0,1,0,148,1
+van,0,3,0,0,1,0,166
