@@ -1,0 +1,3 @@
+model_name,best_val_acc,best_epoch,final_val_acc
+resnet50,0.991291,29,0.990266
+efficientnet_b0,0.98873,14,0.98511
